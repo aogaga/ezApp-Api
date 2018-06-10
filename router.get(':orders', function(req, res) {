@@ -1,0 +1,5 @@
+router.get('/orders', function(req, res) {
+  models.Todo.findAll({}).then(function(todos) {
+    res.json(todos);
+  });
+});

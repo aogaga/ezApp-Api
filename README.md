@@ -1,1 +1,2 @@
-# ezApp-Api
+# A Node/Express API for ezApp Demo
+
